@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project2_popular_movies</string>
+    <string name="detail_error_message">Something went wrong in DetailActivity</string>
+    <string name="attribution_text">Data provided by api.themoviedb.org</string>
+</resources>
